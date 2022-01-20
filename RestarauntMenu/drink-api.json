@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "title": "Coca-cola",
+        "subtitle": "Soft drink",
+        "image": "https://us.coca-cola.com/content/dam/nagbrands/us/coke/en/products/product-landing/coca-cola-flavors-bottle-can-packaging.png",
+    },
+    {
+        "id" : 2,
+        "title": "Orange",
+        "subtitle": "Juice",
+        "image": "https://greenletes.com/wp-content/uploads/2018/05/orange-juice-1024x1024.png",
+    },
+    {
+        "id" : 3,
+        "title": "Beer",
+        "subtitle": "Alchohol",
+        "image": "https://shanghai-paper.com/wp-content/uploads/2020/06/Beer-in-China.jpg",
+    },
+    {
+        "id" : 4,
+        "title": "Whiskey",
+        "subtitle": "Alchohol",
+        "image": "https://cdn.britannica.com/71/192771-131-00E5AA76/Glass-scotch-whiskey-ice.jpg",
+    },
+    {
+        "id" : 5,
+        "title": "Fanta",
+        "subtitle": "Soft drink",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8MsqD0iuFdH-m92GU5j9r2V4W7q8FiwJxow&usqp=CAU",
+    },
+    {
+        "id" : 6,
+        "title": "Vodka",
+        "subtitle": "Alchohol",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlcPVLkUNiUMGFadXT-IhhABYH5wNGsw1tvw&usqp=CAU",
+    }
+]
